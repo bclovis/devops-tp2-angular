@@ -67,5 +67,8 @@
       }
     }
   },
-  "defaultProject": "angular-hello-world-ghpages"
+  "defaultProject": "angular-hello-world-ghpages",
+  "cli": {
+    "analytics": "33fb640d-0e4c-4e9c-b7ad-0f219b5210ef"
+  }
 }
